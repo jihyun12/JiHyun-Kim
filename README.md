@@ -1,4 +1,3 @@
-# Hi there👋
 <h2 style="color:#6868ab"> ✌ 김지현 JiHyun Kim ✨ </h2>
 
 Activities
