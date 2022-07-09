@@ -6,10 +6,14 @@
 
 - 👍 **프론트엔드** 개발자를 희망합니다.
 - 🥴 한 가지의 문제를 **파고드는 것**을 좋아합니다.<br><br>
+
+Work 💻
+- &emsp;미리디 프론트엔드 개발 인턴 (<a href="https://www.miricanvas.com/">미리캔버스</a> 에디터 개발) (2022.07~)
+
 Activities
 
-- 👨‍👩‍👧‍👦&emsp;**DND Side Project 5th** Front-end developer (2021.06 ~ 2021.08)
-- 👨‍👩‍👧‍👦&emsp;**UNIT - UPF 2021FW** Front-end developer (2021.09 ~ 2021.12)
+- 👨‍👩‍👧‍👦&emsp;**DND Side Project 5th** 프론트엔드 개발자 (2021.06 ~ 2021.08)
+- 👨‍👩‍👧‍👦&emsp;**UNIT - UPF 2021FW** 프론트엔드 개발자 (2021.09 ~ 2021.12)
 <br>
 <div align="center">
   
