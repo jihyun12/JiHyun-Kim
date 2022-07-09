@@ -12,8 +12,8 @@ Work 💻
 
 Activities
 
-- 👨‍👩‍👧‍👦&emsp;**DND Side Project 5th** 프론트엔드 개발자 (2021.06 ~ 2021.08)
-- 👨‍👩‍👧‍👦&emsp;**UNIT - UPF 2021FW** 프론트엔드 개발자 (2021.09 ~ 2021.12)
+- 👨‍👩‍👧‍👦&emsp;<a href="https://dnd.ac/">DND Side Project 5th</a> 프론트엔드 개발자 (2021.06 ~ 2021.08)
+- 👨‍👩‍👧‍👦&emsp;<a href="https://www.unit.center/">UNIT - UPF 2021FW</a> 프론트엔드 개발자 (2021.09 ~ 2021.12)
 <br>
 <div align="center">
   
